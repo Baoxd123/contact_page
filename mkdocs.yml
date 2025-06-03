@@ -1,8 +1,8 @@
-site_name: My Docs
+site_name: UGA CS Research Scans
 site_url: https://mydomain.org/UGAresearch_scanning_contact_page
 theme:
   name: material
 nav:
   - Home: index.md
-  - Contact: contact.md
+
   
